@@ -4,5 +4,7 @@ type: playlist
 
 title: My playlist
 
+cover: https://raw.githubusercontent.com/4unjee/test/main/icon.png
+
 tracks: |
     https://www.youtube.com/watch?v=TapgyJP-nDM
