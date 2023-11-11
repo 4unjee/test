@@ -1,0 +1,21 @@
+# vbml 1.0.5
+
+type: track
+
+title: Inspiring music
+
+cover: https://i.ytimg.com/vi/J5oZ80Daduc/maxresdefault.jpg
+
+source:
+    track:
+        at: 10:00
+        end: 12:00
+        media: https://www.youtube.com/watch?v=J5oZ80Daduc
+    track:
+        at: 20:00
+        end: 24:30
+        media: https://www.youtube.com/watch?v=TzsaL5KVvnI
+    track:
+        duration: 2:00
+        media: https://static.ra.co/images/profiles/lg/daftpunk.jpg
+
