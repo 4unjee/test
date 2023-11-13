@@ -1,0 +1,29 @@
+# vbml 1.0.5
+
+type: track
+
+title: Space Opera
+
+cover: https://www.10wallpaper.com/wallpaper/1366x768/1202/beautiful_space_view-Space_exploration_secret_theme_Desktop_1366x768.jpg
+
+author: vox
+
+feed: https://omega.gg/vox/hubs
+
+source:
+    track:
+        at: 4:00
+        end: 6:30
+        media: https://www.youtube.com/watch?v=4Q2YBKFDXjQ
+    track:
+        at: 3:00
+        end: 5:15
+        media: https://www.youtube.com/watch?v=Hq5H6jhA2s4
+    track:
+        at: 2:00
+        end: 4:45
+        media: https://www.youtube.com/watch?v=IDtjzLzs7V8
+    track:
+        duration: 1:00
+        media: https://images.pling.com/img/00/00/64/27/60/1733771/earth-and-moon-space-universe-photography-wallpaper-wallpaper-1920x1080-10wallpaper.com.jpg
+        
