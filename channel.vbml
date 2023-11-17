@@ -1,0 +1,63 @@
+# vbml 1.0.5
+
+type: channel
+
+title: noisy tv
+
+cover: https://raw.githubusercontent.com/omega-gg/vox/master/vox.png
+
+author: vox
+
+feed: https://omega.gg/vox/hubs
+
+timezone: Europe/Paris
+
+timezone: Europe/Paris
+
+source:
+    # Monday
+    track:
+        type: hub
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=ubFq-wV3Eic
+    # Tuesday
+    track:
+        type: hub
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=ubFq-wV3Eic
+    # Wednesday
+    track:
+        type: hub
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=ubFq-wV3Eic
+    # Thursday
+    track:
+        type: hub
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=ubFq-wV3Eic
+    # Friday
+    track:
+        duration: 24:00:00
+        source:
+            track:
+                type: hub
+                duration: 17:43:00
+                source: https://www.youtube.com/watch?v=ubFq-wV3Eic
+            track:
+                duration: 57:40
+                source: https://omega.gg/voxPopuli/cinema/cinema.vbml
+            track:
+                type: hub
+                duration: 24:00:00
+                source: https://www.youtube.com/watch?v=ubFq-wV3Eic
+    # Saturday
+    track:
+        type: hub
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=ubFq-wV3Eic
+    # Sunday
+    track:
+        type: hub
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=ubFq-wV3Eic
+
